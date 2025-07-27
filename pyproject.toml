@@ -82,6 +82,8 @@ ignore = [
     "*.so",
     "*.html",
     "_c_src/",
+    "_rs_src",
+    "*.rs",
     "cli/",
     "*.c",
     "*.h",
